@@ -1,8 +1,7 @@
 <h1># Conversor de monedas</h1>
-Se esta usando java 17
+Se desarrollo una aplicacion que consume una API que nos ayudara a convertir tu moneda local a dolares EE.UU y viceversa
 
-Se desarrollo una aplicacion con java que consulta por una API el tipo de cambio segun la moneda que escojas.
-## Por defecto se agregaron 8 tipo de cambio
+## Por defecto se agregaron 8 tipo de cambio de monedas
 1) Dólar           => Peso Argentino
 2) Peso Argentino  => Dólar
 3) Dólar           => Real Brasileño
