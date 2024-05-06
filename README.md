@@ -1,4 +1,4 @@
-<em> # Conversor de moendas </em>
+<h1># Conversor de monedas</h1>
 Se esta usando java 17
 
 Se cre una aplicacion con java que consulta por una API el tipo de cambio segun la moneda que escojas.
